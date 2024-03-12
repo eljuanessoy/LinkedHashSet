@@ -1,3 +1,4 @@
+```java
 package peliculaslhs;
 import java.util.LinkedHashSet;
 import java.util.Scanner;
@@ -39,8 +40,8 @@ public class Peliculaslhs {
     }
     
 }
-
-
+```
+```java
 package peliculaslhs;
 
 class Peliculalhs {
@@ -65,3 +66,4 @@ class Peliculalhs {
         return nombre + "-" + añoLanzamiento;
     }
 }
+```
